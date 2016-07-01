@@ -1,0 +1,22 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+    <ListPreference
+        android:defaultValue="0"
+        android:entries="@array/pref_screen_flash_value"
+        android:entryValues="@array/pref_screen_flash_values"
+        android:key="screen_flash_key"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null"
+        android:title="Screen Flash" />
+
+      <ListPreference
+        android:defaultValue="1000"
+        android:entries="@array/pref_flash_display_time"
+        android:entryValues="@array/pref_flash_display_time_values"
+        android:key="screen_flash_time"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null"
+        android:title="Screen Flash Wait Time" />
+
+</PreferenceScreen>

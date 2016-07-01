@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Hybr!d\\Documents\\GitHub\\smartSelfiePro\\SmartSelfiePro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\splash.jpg",
+        "source": "C:\\Users\\Hybr!d\\Documents\\GitHub\\smartSelfiePro\\SmartSelfiePro\\app\\src\\main\\res\\drawable-ldpi\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hybr!d\\Documents\\GitHub\\smartSelfiePro\\SmartSelfiePro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\shutter.png",
+        "source": "C:\\Users\\Hybr!d\\Documents\\GitHub\\smartSelfiePro\\SmartSelfiePro\\app\\src\\main\\res\\drawable-ldpi\\shutter.png"
+    },
+    {
+        "merged": "C:\\Users\\Hybr!d\\Documents\\GitHub\\smartSelfiePro\\SmartSelfiePro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\back.png",
+        "source": "C:\\Users\\Hybr!d\\Documents\\GitHub\\smartSelfiePro\\SmartSelfiePro\\app\\src\\main\\res\\drawable-ldpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Hybr!d\\Documents\\GitHub\\smartSelfiePro\\SmartSelfiePro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\shutter_pressed.png",
+        "source": "C:\\Users\\Hybr!d\\Documents\\GitHub\\smartSelfiePro\\SmartSelfiePro\\app\\src\\main\\res\\drawable-ldpi\\shutter_pressed.png"
+    }
+]
